@@ -1,0 +1,10 @@
+model_name_or_path: ../Qwen2.5-3B-Instruct
+adapter_name_or_path: ../Results/lora-checkpoint-6728
+template: default
+trust_remote_code: true
+
+### export
+export_dir: ../Qwen2.5-3B-Instruct_lora1
+export_size: 5
+export_device: cpu
+export_legacy_format: false

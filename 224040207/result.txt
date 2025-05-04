@@ -1,0 +1,24 @@
+运行逻辑回归...
+运行DeepSeek ICL...
+DeepSeek ICL with 5 examples...
+DeepSeek ICL with 10 examples...
+DeepSeek ICL with 15 examples...
+
+=== 结果比较 ===
+Logistic Regression:
+  准确率: 1.0000
+
+DeepSeek-ICL-5ex:
+  准确率: 0.9444
+  预测时间: 162.12s
+  有效预测比例: 100.00%
+
+DeepSeek-ICL-10ex:
+  准确率: 0.9444
+  预测时间: 156.69s
+  有效预测比例: 100.00%
+
+DeepSeek-ICL-15ex:
+  准确率: 0.9722
+  预测时间: 167.54s
+  有效预测比例: 100.00%
