@@ -1,0 +1,2 @@
+CNN test accuracy score: 98.04%
+LLM test accuracy score: 31%
